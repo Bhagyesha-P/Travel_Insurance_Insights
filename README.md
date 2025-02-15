@@ -7,9 +7,13 @@ This project focuses on analyzing Travel Insurance data using Power BI to extrac
 **Key Objectives** 🎯
 
 ✔ Identify top-performing travel insurance products based on sales and claims data.
+
 ✔ Analyze customer demographics to determine insurance purchase patterns.
+
 ✔ Understand sales distribution across agencies, agency types, and distribution channels.
+
 ✔ Assess commission structures and their impact on agency revenue.
+
 ✔ Evaluate claim trends to improve risk assessment and fraud detection.
 
 **Key Analyses & Insights** 🔍
@@ -42,11 +46,11 @@ This project includes interactive Power BI dashboards to visualize key metrics:
 
 **Challenges Faced:**
 
-Inconsistent Data Formatting: Different date formats, currency representations, and variations in agency names caused integration issues.
+- Inconsistent Data Formatting: Different date formats, currency representations, and variations in agency names caused integration issues.
 
-Handling Missing & Incomplete Data: Some records lacked claim statuses, customer demographics, or transaction details, leading to gaps in analysis.
+- Handling Missing & Incomplete Data: Some records lacked claim statuses, customer demographics, or transaction details, leading to gaps in analysis.
 
-Slow Dashboard Performance: Large datasets resulted in slow loading sometimes and lag in Power BI reports.
+- Slow Dashboard Performance: Large datasets resulted in slow loading sometimes and lag in Power BI reports.
 
 **Solutions Implemented:**
 
@@ -55,7 +59,4 @@ Slow Dashboard Performance: Large datasets resulted in slow loading sometimes an
 ✔ Applied data imputation techniques (mean, median, mode) to fill missing values and enhance report accuracy.
 
 ✔ Optimized Power BI dashboards by reducing dataset size, using aggregations, and improving DAX calculations for real-time insights.
-
-
-
 
